@@ -1,0 +1,8 @@
+.nav-links{
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
